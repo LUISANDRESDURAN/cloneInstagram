@@ -7,7 +7,11 @@ module.exports = {
         "@components": "./src/components",
         "@screens":    "./src/screens",
         "@services":   "./src/services",
-        /* …tus alias… */
+        // te faltan estos alias:
+        "@navigation": "./src/navigation",
+        "@hooks":      "./src/hooks",
+        "@constants":  "./src/constants",
+        "@utils":      "./src/utils"
       }
     }]
   ]
